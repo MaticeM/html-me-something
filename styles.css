@@ -1,0 +1,22 @@
+body {
+    background:mintcream
+}
+
+p {
+    margin: 25px;
+    color:black 
+}
+
+.pink-paragraph {
+    color:orchid
+}
+
+#purple-paragraph {
+    color:purple
+}
+
+img {
+    padding left: 30px;
+    padding-right: 30px;
+    margin: 50px
+}
